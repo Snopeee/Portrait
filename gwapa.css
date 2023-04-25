@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0px;
+    background-color: #000;
+}
+
+p {
+   font-size: 10px;
+   line-height: 8px;
+   background: url(gwapaa.jpg) no-repeat center/cover ;
+   text-align: justify;
+   background-position: center;
+   -webkit-background-clip: text;
+   background-attachment: fixed;
+   background-repeat: no-repeat ;
+   background-size: 100% 125%;
+   -webkit-text-fill-color: rgba(255, 255, 255, 0); 
+}
